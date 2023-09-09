@@ -2,6 +2,7 @@ import "./App.css";
 import MovieCards from "./components/MovieCards";
 import Header from "./components/Header";
 import Categories from "./components/Categories";
+import Services from "./components/Services";
 
 function App() {
   return(
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Categories />
       <MovieCards />
+      <Services />
     </div>
   );
 }

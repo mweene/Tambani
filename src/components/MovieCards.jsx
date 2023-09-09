@@ -6,7 +6,7 @@ import image7 from "../assets/img7.webp";
 
 export default function MovieCards() {
     return (
-        <div className="grid grid-cols-4 gap-4 px-20 py-16">
+        <div className="grid grid-cols-4 gap-7 px-20 py-16">
             <MovieCard 
                 imageSrc={image}
             />

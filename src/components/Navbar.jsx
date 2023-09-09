@@ -2,7 +2,7 @@ import Logo from "../assets/WHITE-LOGO.svg";
 
 export default function Navbar() {
     return (
-        <nav className="flex place-content-between">
+        <nav className="flex place-content-between font-body">
             <img src= {Logo} alt="tambani logo" className="w-auto h-11 logo" />
 
             <ul className="flex items-center gap-4 text-lg capitalize nav-list">

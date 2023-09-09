@@ -9,6 +9,11 @@ export default {
       backgroundImage: {
         'hero-image': "url('./assets/hero.png')",
       },
+
+      fontFamily: {
+        'head': ['"Titillium Web"','sans-serif'],
+        'body': ['Roboto','sans-serif'],
+      }
     },
   },
   plugins: [],
