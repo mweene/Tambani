@@ -1,3 +1,8 @@
 img,svg {
     width: 100%;
 }
+
+.card-gradient {
+    background: rgb(13,13,13);
+    background: linear-gradient(0deg, rgba(13,13,13,0.989233193277311) 0%, rgba(13,13,13,0.2049194677871149) 50%, rgba(13,13,13,0.9808298319327731) 100%);
+}
